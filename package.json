@@ -69,6 +69,6 @@
 		"colornames": "^1.1.1"
 	},
 	"peerDependencies": {
-		"pixi.js": "^5.2.1"
+		"pixi.js": "6.5.8"
 	}
 }
